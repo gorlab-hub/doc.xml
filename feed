@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2021-07-17 12:10">
   <shop>
-    <name>Сэмпл.Врачи</name>
-    <company>ООО Сэмпл.Врачи</company>
-    <url>https://doctors.sample.s3.yandex.net</url>
-    <email>support-doctors@doctors.sample.s3.yandex.net</email>
-    <picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
+    <name>ГОРЛАБ</name>
+    <company>ГОРЛАБ</company>
+    <url>https://gorlab.ru/</url>
+    <email>info@gorlab.ru</email>
+    <picture>https://static.tildacdn.com/tild3438-3332-4665-a236-666539303364/GorLab_logo_title.svg</picture>
     <description>Каталог врачей</description>
     <currencies>
       <currency id="RUR" rate="1"/>
@@ -15,13 +15,61 @@
     </categories>
 
   <sets>
+    <set id="ag">
+      <name>Акушер-гинеколог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="a">
+      <name>Андролог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="uzd">
+      <name>Врач УЗИ</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="gastroenterologist">
+      <name>Гастроэнтеролог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="gr">
+      <name>Гинеколог-репродуктолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="ge">
+      <name>гинеколог-эндокринолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="derma">
+      <name>Дерматолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="diet">
+      <name>Диетолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="cardiolog">
+      <name>Кардиолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="nefrolog">
+      <name>Нефролог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
     <set id="terapevt">
       <name>Терапевт</name>
-      <url>https://doctors.sample.s3.yandex.net/terapevt</url>
+      <url>https://gorlab.ru/doctors</url>
     </set>
-    <set id="khirurg">
-      <name>Хирург</name>
-      <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <set id="urolog">
+      <name>Eролог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="endocrinolog">
+      <name>эндокринолог</name>
+      <url>https://gorlab.ru/doctors</url>
+    </set>
+    <set id="endoscopist">
+      <name>эндоскопист</name>
+      <url>https://gorlab.ru/doctors</url>
     </set>
   </sets>
 <offers>

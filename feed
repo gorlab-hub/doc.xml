@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2021-07-17 12:10">
-<shop>
-<name>Сэмпл.Врачи</name>
-<company>ООО Сэмпл.Врачи</company>
-<url>https://doctors.sample.s3.yandex.net</url>
-<email>support-doctors@doctors.sample.s3.yandex.net</email>
-<picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
-<description>Каталог врачей</description>
-<currencies>
-<currency id="RUR" rate="1"/>
-</currencies>
-<categories>
-<category id="1">Врач</category>
-</categories>
-<sets>
-<set id="terapevt">
-<name>Терапевт</name>
-<url>https://doctors.sample.s3.yandex.net/terapevt</url>
-</set>
-<set id="khirurg">
-<name>Хирург</name>
-<url>https://doctors.sample.s3.yandex.net/khirurg</url>
-</set>
-</sets>
+  <shop>
+    <name>Сэмпл.Врачи</name>
+    <company>ООО Сэмпл.Врачи</company>
+    <url>https://doctors.sample.s3.yandex.net</url>
+    <email>support-doctors@doctors.sample.s3.yandex.net</email>
+    <picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
+    <description>Каталог врачей</description>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Врач</category>
+    </categories>
+
+  <sets>
+    <set id="terapevt">
+      <name>Терапевт</name>
+      <url>https://doctors.sample.s3.yandex.net/terapevt</url>
+    </set>
+    <set id="khirurg">
+      <name>Хирург</name>
+      <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    </set>
+  </sets>
 <offers>
 <!-- 
                 Оффер для врача - это связка "Врач"-"Клиника"-"Тип приема".

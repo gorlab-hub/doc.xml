@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2021-07-17 12:10">
+<yml_catalog date="2024-07-05 12:10">
     <shop>
         <name>ГОРЛАБ</name>
         <company>ГОРЛАБ</company>
@@ -89,7 +89,6 @@
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>endocrinolog</set-ids> <!--специальности через запятую-->
                 <picture>https://static.tildacdn.com/tild6139-6437-4136-b639-663663613132/photo.png</picture>
-                
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
                 <param name="Фамилия">Авсиевич</param>
@@ -108,6 +107,34 @@
                 <param name="Телефон для записи">8(800)555-36-12</param>
                 <!-- Можно подменник аггрегатора -->
             </offer>  
+            
+            <offer id="vrach2" group_id="2"> 
+                <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/ua_yasenevo_amm</url><!--URL карточки врача. -->
+                <price from="true">2000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>endocrinolog</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild6139-6437-4136-b639-663663613132/photo.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Авсиевич</param>
+                <param name="Имя">Екатерина</param>
+                <param name="Отчество">Сергеевна</param>
+                <param name="Годы опыта">2</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">Щелковское ш., д. 66</param>
+                <param name="Название клиники">Горлаб Щелковская</param>
+                <param name="Возможность записи">true</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">true</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
         </offers>
     </shop>
 </yml_catalog>

@@ -24,7 +24,11 @@
                   <url>https://gorlab.ru/doctors</url>
             </set>
             <set id="urolog">
-                  <name>уролог</name>
+                  <name>Уролог</name>
+                  <url>https://gorlab.ru/doctors</url>
+            </set>
+            <set id="ag">
+                  <name>Акушер-гинеколог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
         </sets>
@@ -69,7 +73,7 @@
                 <url>https://gorlab.ru/ua_yasenevo_amm</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
-                <sales_notes>Первичный прием</sales_notes>
+                <sales_notes>УЗИ</sales_notes>
                 <set-ids>usd</set-ids> <!--специальности через запятую-->
                 <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
                 <categoryId>1</categoryId>
@@ -90,6 +94,8 @@
                 <param name="Телефон для записи">8(800)555-36-12</param>
                 <!-- Можно подменник аггрегатора -->
             </offer>
+
+            
             <offer id="3" group_id="3"> 
                 <name>Амаев Низами Викторович</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
@@ -123,6 +129,62 @@
                 <url>https://gorlab.ru/ua_rasskazovka_anv</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
+                <sales_notes>УЗИ</sales_notes>
+                <set-ids>usd</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Амаев</param>
+                <param name="Имя">Низами</param>
+                <param name="Отчество">Викторович</param>
+                <param name="Годы опыта">3</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">ул. Веерная, д. 1, к. 2</param>
+                <param name="Название клиники">Горлаб Матвеевское</param>
+                <param name="Возможность записи">true</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">true</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
+
+            <offer id="5" group_id="5"> 
+                <name>Багдасарова Власта Зурабовна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/ag_rasskazovka_bvz</url><!--URL карточки врача. -->
+                <price from="true">2990</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>ag</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Багдасарова</param>
+                <param name="Имя">Власта</param>
+                <param name="Отчество">Зурабовна</param>
+                <param name="Годы опыта">20</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Степень">Кандидат наук</param>
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">ул. Корнея Чуковского, 3</param>
+                <param name="Название клиники">Горлаб</param>
+                <param name="Возможность записи">true</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">true</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
+            <offer id="6" group_id="6"> 
+                <name>Багдасарова Власта Зурабовна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/ua_rasskazovka_anv</url><!--URL карточки врача. -->
+                <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>usd</set-ids> <!--специальности через запятую-->
                 <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
@@ -135,6 +197,7 @@
                 <param name="Город">г. Москва</param>
                 <param name="Взрослый врач">true</param>
                 <!-- Принимает взрослых, от 18 лет -->
+                <param name="Степень">Кандидат наук</param>
                 <param name="Город клиники">г. Москва</param>
                 <param name="Адрес клиники">ул. Веерная, д. 1, к. 2</param>
                 <param name="Название клиники">Горлаб Матвеевское</param>

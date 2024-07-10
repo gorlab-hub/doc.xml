@@ -23,7 +23,7 @@
                   <name>Андролог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="uzd">
+            <set id="usd">
                   <name>Врач УЗИ</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
@@ -108,7 +108,7 @@
                 <!-- Можно подменник аггрегатора -->
             </offer>
             
-            <offer id="2" group_id="1"> 
+            <offer id="2" group_id="2"> 
                 <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://gorlab.ru/ua_yasenevo_amm</url><!--URL карточки врача. -->

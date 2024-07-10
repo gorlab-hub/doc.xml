@@ -15,10 +15,6 @@
         </categories>
 
         <sets>
-            <set id="ag">
-                  <name>Акушер-гинеколог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
             <set id="a">
                   <name>Андролог</name>
                   <url>https://gorlab.ru/doctors</url>
@@ -27,48 +23,8 @@
                   <name>Врач УЗИ</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="gastroenterologist">
-                  <name>Гастроэнтеролог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="gr">
-                  <name>Гинеколог-репродуктолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="ge">
-                  <name>гинеколог-эндокринолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="derma">
-                  <name>Дерматолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="diet">
-                  <name>Диетолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="cardiolog">
-                  <name>Кардиолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="nefrolog">
-                  <name>Нефролог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="terapevt">
-                  <name>Терапевт</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
             <set id="urolog">
                   <name>уролог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="endocrinolog">
-                  <name>эндокринолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="endoscopist">
-                  <name>эндоскопист</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
         </sets>

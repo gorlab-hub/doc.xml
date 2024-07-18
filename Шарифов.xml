@@ -31,7 +31,7 @@
             <offer id="1" group_id="1"> 
                 <name>Шарифов Илькин Ильхам Оглы</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <urlhttps://gorlab.ru/usd_yasenevo_siio?offer-id=1</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/usd_yasenevo_siio?offer-id=1</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
@@ -60,7 +60,7 @@
             <offer id="2" group_id="1"> 
                 <name>Шарифов Илькин Ильхам Оглы</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <urlhttps://gorlab.ru/usd_yasenevo_siio?offer-id=2</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/usd_yasenevo_siio?offer-id=2</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
@@ -89,7 +89,7 @@
             <offer id="3" group_id="1"> 
                 <name>Шарифов Илькин Ильхам Оглы</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <urlhttps://gorlab.ru/usd_yasenevo_siio?offer-id=3</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/usd_yasenevo_siio?offer-id=3</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
@@ -119,7 +119,7 @@
             <offer id="4" group_id="1"> 
                 <name>Шарифов Илькин Ильхам Оглы</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <urlhttps://gorlab.ru/usd_yasenevo_siio?offer-id=4</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/usd_yasenevo_siio?offer-id=4</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>

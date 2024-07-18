@@ -15,16 +15,12 @@
         </categories>
 
         <sets>
-            <set id="a">
-                  <name>Андролог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
             <set id="usd">
                   <name>Врач УЗИ</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="urolog">
-                  <name>уролог</name>
+            <set id="ag">
+                  <name>Акушер-гинеколог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
         </sets>
@@ -37,25 +33,26 @@
             -->
             <!--group_id - уникальный идентификтаор врача. нужен при наличии разных URL у одного человека. Целое число, не более 9 знаков-->
             <offer id="1" group_id="1"> 
-                <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
+                <name>Тагирова Зарина Максимовна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ua_yasenevo_amm?offer-id=1</url><!--URL карточки врача. -->
-                <price from="true">2200</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <url>https://gorlab.ru/ag_matveevskaya_tzm?offer-id=1</url><!--URL карточки врача. -->
+                <price from="true">3490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
-                <set-ids>urolog,a</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
+                <set-ids>ag</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild6664-3935-4835-b336-316663336238/noroot.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Акрамов</param>
-                <param name="Имя">Мусхин</param>
-                <param name="Отчество">Муротович</param>
-                <param name="Годы опыта">5</param>
+                <param name="Фамилия">Тагирова</param>
+                <param name="Имя">Зарина</param>
+                <param name="Отчество">Максимовна</param>
+                <param name="Годы опыта">9</param>
                 <param name="Город">г. Москва</param>
                 <param name="Взрослый врач">true</param>
                 <!-- Принимает взрослых, от 18 лет -->
+                <param name="Степень">Кандидат наук</param>
                 <param name="Город клиники">г. Москва</param>
-                <param name="Адрес клиники">ул. Ясногорская, 13к1</param>
+                <param name="Адрес клиники">ул. Веерная, д. 1, к. 2</param>
                 <param name="Название клиники">Горлаб</param>
                 <param name="Возможность записи">true</param>
                 <!-- Возможность записаться на прием через сайт-поставщик фида -->
@@ -65,25 +62,26 @@
             </offer>
             
             <offer id="2" group_id="1"> 
-                <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
+                <name>Тагирова Зарина Максимовна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ua_yasenevo_amm?offer-id=2</url><!--URL карточки врача. -->
-                <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <url>https://gorlab.ru/ag_matveevskaya_tzm?offer-id=2</url><!--URL карточки врача. -->
+                <price from="true">8000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>usd</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild3463-6563-4337-b534-663663623961/noroot.png</picture>
+                <picture>https://static.tildacdn.com/tild6664-3935-4835-b336-316663336238/noroot.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Акрамов</param>
-                <param name="Имя">Мусхин</param>
-                <param name="Отчество">Муротович</param>
-                <param name="Годы опыта">5</param>
+                <param name="Фамилия">Тагирова</param>
+                <param name="Имя">Зарина</param>
+                <param name="Отчество">Максимовна</param>
+                <param name="Годы опыта">9</param>
                 <param name="Город">г. Москва</param>
                 <param name="Взрослый врач">true</param>
                 <!-- Принимает взрослых, от 18 лет -->
+                <param name="Степень">Кандидат наук</param>
                 <param name="Город клиники">г. Москва</param>
-                <param name="Адрес клиники">ул. Ясногорская, 13к1</param>
+                <param name="Адрес клиники">ул. Веерная, д. 1, к. 2</param>
                 <param name="Название клиники">Горлаб</param>
                 <param name="Возможность записи">true</param>
                 <!-- Возможность записаться на прием через сайт-поставщик фида -->

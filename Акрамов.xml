@@ -39,7 +39,7 @@
             <offer id="1" group_id="1"> 
                 <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ua_yasenevo_amm</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/ua_yasenevo_amm?offer-id=1</url><!--URL карточки врача. -->
                 <price from="true">2200</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
@@ -67,7 +67,7 @@
             <offer id="2" group_id="2"> 
                 <name>Акрамов Мусхин Муротович</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ua_yasenevo_amm</url><!--URL карточки врача. -->
+                <url>https://gorlab.ru/ua_yasenevo_amm?offer-id=2</url><!--URL карточки врача. -->
                 <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>

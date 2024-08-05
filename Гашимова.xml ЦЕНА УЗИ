@@ -70,10 +70,10 @@
                 <name>Гашимова Сельминаз Камиловна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://gorlab.ru/a_shelkovskaya_gsk?offer-id=2</url><!--URL карточки врача. -->
-                <price from="true">2200</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <price from="true">1490</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
-                <set-ids>u,a</set-ids> <!--специальности через запятую-->
+                <set-ids>usd</set-ids> <!--специальности через запятую-->
                 <picture>https://static.tildacdn.com/tild3236-6331-4062-b232-346636633661/noroot.jpg</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-07-05 12:10">
+    <shop>
+        <name>ГОРЛАБ</name>
+        <company>ГОРЛАБ</company>
+        <url>https://gorlab.ru/</url>
+        <email>info@gorlab.ru</email>
+        <picture>https://static.tildacdn.com/tild3438-3332-4665-a236-666539303364/GorLab_logo_title.svg</picture>
+        <description>Каталог врачей</description>
+        <currencies>
+          <currency id="RUR" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+
+        <sets>
+            <set id="n">
+                  <name>Невролог</name>
+                  <url>https://gorlab.ru/doctors</url>
+            </set>
+            <set id="o">
+                  <name>Ортопед</name>
+                  <url>https://gorlab.ru/doctors</url>
+            </set>
+            <set id="ne">
+                  <name>Нейрохирург</name>
+                  <url>https://gorlab.ru/doctors</url>
+            </set>
+        </sets>
+        <offers>
+            <!--
+                Оффер для врача - это связка "Врач"-"Клиника"-"Тип приема".
+                При наличии у врача нескольких офферов нужно предоставить каждый из них отдельно.
+                В таком случае URL разных офферов одного врача должны различаться незначащим cgi-параметром ?offer-id=...
+
+            -->
+            <!--group_id - уникальный идентификтаор врача. нужен при наличии разных URL у одного человека. Целое число, не более 9 знаков-->
+            <offer id="1" group_id="1"> 
+                <name>Липай Елена Владимировна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/nno_avtozavodskaya_lev?offer-id=1</url><!--URL карточки врача. -->
+                <price from="true">3500</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>n</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3030-6637-4433-b438-393439633632/image_8.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Липай</param>
+                <param name="Имя">Елена</param>
+                <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">41</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Детский врач">false</param>
+                <!-- Принимает детей, до 18 лет -->
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">ул. Трофимова, д. 10</param>
+                <param name="Название клиники">Горлаб</param>
+                <param name="Возможность записи">false</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">false</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
+            <offer id="2" group_id="1"> 
+                <name>Липай Елена Владимировна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/nno_avtozavodskaya_lev?offer-id=2</url><!--URL карточки врача. -->
+                <price from="true">3000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>o</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3030-6637-4433-b438-393439633632/image_8.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Липай</param>
+                <param name="Имя">Елена</param>
+                <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">41</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Детский врач">false</param>
+                <!-- Принимает детей, до 18 лет -->
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">ул. Трофимова, д. 10</param>
+                <param name="Название клиники">Горлаб</param>
+                <param name="Возможность записи">false</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">false</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
+            <offer id="3" group_id="1"> 
+                <name>Липай Елена Владимировна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://gorlab.ru/nno_avtozavodskaya_lev?offer-id=3</url><!--URL карточки врача. -->
+                <price from="true">4500</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>ne</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3030-6637-4433-b438-393439633632/image_8.png</picture>
+                <categoryId>1</categoryId>
+                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
+                <param name="Фамилия">Липай</param>
+                <param name="Имя">Елена</param>
+                <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">41</param>
+                <param name="Город">г. Москва</param>
+                <param name="Взрослый врач">true</param>
+                <!-- Принимает взрослых, от 18 лет -->
+                <param name="Детский врач">false</param>
+                <!-- Принимает детей, до 18 лет -->
+                <param name="Город клиники">г. Москва</param>
+                <param name="Адрес клиники">ул. Трофимова, д. 10</param>
+                <param name="Название клиники">Горлаб</param>
+                <param name="Возможность записи">false</param>
+                <!-- Возможность записаться на прием через сайт-поставщик фида -->
+                <param name="Онлайн-расписание">false</param>
+                <param name="Телефон для записи">8(800)555-36-12</param>
+                <!-- Можно подменник аггрегатора -->
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

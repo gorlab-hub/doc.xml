@@ -23,10 +23,7 @@
                   <name>Андролог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="usd">
-                  <name>Врач УЗИ</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
+        
            
         </sets>
         <offers>

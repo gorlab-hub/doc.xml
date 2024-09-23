@@ -44,7 +44,7 @@
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>gr,ag</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild6530-3466-4063-b633-396461663232/noroot.png</picture>
+                <picture>https://static.tildacdn.com/tild6262-6634-4163-b037-353239383666/image.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
                 <param name="Фамилия">Сорокина</param>
@@ -72,7 +72,7 @@
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>ge</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild6530-3466-4063-b633-396461663232/noroot.png</picture>
+                <picture>https://static.tildacdn.com/tild6262-6634-4163-b037-353239383666/image.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
                 <param name="Фамилия">Сорокина</param>

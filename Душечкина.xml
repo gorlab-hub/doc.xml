@@ -40,7 +40,7 @@
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>ag</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild6664-3935-4835-b336-316663336238/noroot.png</picture>
+                <picture>https://static.tildacdn.com/tild3765-3932-4433-b430-363738616135/noroot.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
                 <param name="Фамилия">Душечкина</param>

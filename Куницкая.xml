@@ -19,32 +19,16 @@
                   <name>Гастроэнтеролог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="c">
-                  <name>Кардиолог</name>
+            <set id="p">
+                  <name>Педиатр</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="fdd">
-                  <name>Врач функциональной диагностики</name>
+            <set id="n">
+                  <name>Нутрициолог</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
-            <set id="t">
-                  <name>Терапевт</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="ge">
-                  <name>Гепатолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="pr">
-                  <name>Профпатолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="r">
-                  <name>Ревматолог</name>
-                  <url>https://gorlab.ru/doctors</url>
-            </set>
-            <set id="pu">
-                  <name>Пульмонолог</name>
+            <set id="usd">
+                  <name>Врач УЗИ</name>
                   <url>https://gorlab.ru/doctors</url>
             </set>
         </sets>
@@ -57,27 +41,27 @@
             -->
             <!--group_id - уникальный идентификтаор врача. нужен при наличии разных URL у одного человека. Целое число, не более 9 знаков-->
             <offer id="1" group_id="1"> 
-                <name>Курашова Елена Евгеньевна</name> <!--ФИО, именно в таком порядке-->
+                <name>Куницкая Елена Владимировна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ms_nahimovo_kee?offer-id=1</url><!--URL карточки врача. -->
-                <price from="true">3000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <url>https://gorlab.ru/gpu_kunickaya?offer-id=1</url><!--URL карточки врача. -->
+                <price from="true">2800</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
-                <set-ids>ga,c,fdd,t,ge,pr,r,pu</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild6263-3937-4337-b738-356166303764/noroot.png</picture>
+                <set-ids>ga,p,n,usd</set-ids> <!--специальности через запятую-->
+                <picture>https://static.tildacdn.com/tild3663-3138-4430-a561-663839643234/image.png</picture>
                 <categoryId>1</categoryId>
                 <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Курашова</param>
+                <param name="Фамилия">Куницкая</param>
                 <param name="Имя">Елена</param>
-                <param name="Отчество">Евгеньевна</param>
-                <param name="Годы опыта">20</param>
+                <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">17</param>
                 <param name="Город">г. Москва</param>
                 <param name="Взрослый врач">true</param>
                 <!-- Принимает взрослых, от 18 лет -->
                 <param name="Детский врач">true</param>
                 <!-- Принимает детей, до 18 лет -->
-                <param name="Город клиники">г. Москва</param>
-                <param name="Адрес клиники">ул. Болотниковская, д. 36 к. 5</param>
+                <param name="Город клиники">г. Одинцово</param>
+                <param name="Адрес клиники">Можайское ш., д. 80А</param>
                 <param name="Название клиники">Горлаб</param>
                 <param name="Возможность записи">false</param>
                 <!-- Возможность записаться на прием через сайт-поставщик фида -->

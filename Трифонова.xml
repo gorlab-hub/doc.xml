@@ -44,7 +44,7 @@
                 <name>Трифонова Наталья Викторовна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://gorlab.ru/ag_odincovo_tnv?offer-id=1</url><!--URL карточки врача. -->
-                <price from="true">2000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <price from="true">2420</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
                 <set-ids>ag</set-ids> <!--специальности через запятую-->
@@ -63,90 +63,7 @@
                 <param name="Название клиники">Горлаб</param>
                 <param name="Возможность записи">false</param>
                 <!-- Возможность записаться на прием через сайт-поставщик фида -->
-                <param name="Онлайн-расписание">true</param>
-                <param name="Телефон для записи">8(800)555-36-12</param>
-                <!-- Можно подменник аггрегатора -->
-            </offer>
-            <offer id="2" group_id="1"> 
-                <name>Трифонова Наталья Викторовна</name> <!--ФИО, именно в таком порядке-->
-                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ag_odincovo_tnv?offer-id=2</url><!--URL карточки врача. -->
-                <price from="true">2990</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
-                <currencyId>RUR</currencyId>
-                <sales_notes>Первичный прием</sales_notes>
-                <set-ids>gr</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild3863-6333-4963-b235-663032636537/image.png</picture>
-                <categoryId>1</categoryId>
-                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Трифонова</param>
-                <param name="Имя">Наталья</param>
-                <param name="Отчество">Викторовна</param>
-                <param name="Годы опыта">24</param>
-                <param name="Город">г. Москва</param>
-                <param name="Взрослый врач">true</param>
-                <!-- Принимает взрослых, от 18 лет -->
-                <param name="Город клиники">г. Одинцово</param>
-                <param name="Адрес клиники">Можайское ш., д. 80А</param>
-                <param name="Название клиники">Горлаб</param>
-                <param name="Возможность записи">false</param>
-                <!-- Возможность записаться на прием через сайт-поставщик фида -->
-                <param name="Онлайн-расписание">true</param>
-                <param name="Телефон для записи">8(800)555-36-12</param>
-                <!-- Можно подменник аггрегатора -->
-            </offer>
-            <offer id="3" group_id="1"> 
-                <name>Трифонова Наталья Викторовна</name> <!--ФИО, именно в таком порядке-->
-                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ag_odincovo_tnv?offer-id=3</url><!--URL карточки врача. -->
-                <price from="true">2700</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
-                <currencyId>RUR</currencyId>
-                <sales_notes>Первичный прием</sales_notes>
-                <set-ids>ge</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild3863-6333-4963-b235-663032636537/image.png</picture>
-                <categoryId>1</categoryId>
-                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Трифонова</param>
-                <param name="Имя">Наталья</param>
-                <param name="Отчество">Викторовна</param>
-                <param name="Годы опыта">24</param>
-                <param name="Город">г. Москва</param>
-                <param name="Взрослый врач">true</param>
-                <!-- Принимает взрослых, от 18 лет -->
-                <param name="Город клиники">г. Одинцово</param>
-                <param name="Адрес клиники">Можайское ш., д. 80А</param>
-                <param name="Название клиники">Горлаб</param>
-                <param name="Возможность записи">false</param>
-                <!-- Возможность записаться на прием через сайт-поставщик фида -->
-                <param name="Онлайн-расписание">true</param>
-                <param name="Телефон для записи">8(800)555-36-12</param>
-                <!-- Можно подменник аггрегатора -->
-            </offer>
-            <offer id="4" group_id="1"> 
-                <name>Трифонова Наталья Викторовна</name> <!--ФИО, именно в таком порядке-->
-                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-                <url>https://gorlab.ru/ag_odincovo_tnv?offer-id=4</url><!--URL карточки врача. -->
-                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
-                <currencyId>RUR</currencyId>
-                <sales_notes>Первичный прием</sales_notes>
-                <set-ids>usd</set-ids> <!--специальности через запятую-->
-                <picture>https://static.tildacdn.com/tild3863-6333-4963-b235-663032636537/image.png</picture>
-                <categoryId>1</categoryId>
-                <!-- Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида -->
-                <param name="Фамилия">Трифонова</param>
-                <param name="Имя">Наталья</param>
-                <param name="Отчество">Викторовна</param>
-                <param name="Годы опыта">24</param>
-                <param name="Город">г. Москва</param>
-                <param name="Взрослый врач">true</param>
-                <!-- Принимает взрослых, от 18 лет -->
-                <param name="Детский врач">true</param>
-                <!-- Принимает детей, до 18 лет -->
-                <param name="Город клиники">г. Одинцово</param>
-                <param name="Адрес клиники">Можайское ш., д. 80А</param>
-                <param name="Название клиники">Горлаб</param>
-                <param name="Возможность записи">false</param>
-                <!-- Возможность записаться на прием через сайт-поставщик фида -->
-                <param name="Онлайн-расписание">true</param>
+                <param name="Онлайн-расписание">false</param>
                 <param name="Телефон для записи">8(800)555-36-12</param>
                 <!-- Можно подменник аггрегатора -->
             </offer>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2025-07-11 17:17">
+  <yml_catalog date="2025-07-11 17:17">
 <shop>
 <name>ГОРЛАБ</name>
 <company>ГОРЛАБ</company>
@@ -56,7 +56,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3,set_4,set_5</set-ids>
 <name>Куницкая Елена Владимировна</name>
-<url>https://gorlab.ru/doctor/item35933.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35933.html?utm_source=yandex</url>
 <price from="true">2500</price>
 <oldprice>2500</oldprice>
 <currencyId>RUB</currencyId>
@@ -82,7 +82,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_1,set_2</set-ids>
 <name>Юнусова Гулчехра Раджабоевна</name>
-<url>https://gorlab.ru/doctor/item35924.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35924.html?utm_source=yandex</url>
 <price from="true">2200</price>
 <oldprice>2200</oldprice>
 <currencyId>RUB</currencyId>
@@ -109,7 +109,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Вергасова Ольга Леонидовна</name>
-<url>https://gorlab.ru/doctor/item35927.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35927.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -135,7 +135,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3</set-ids>
 <name>Мещеряков Андрей Васильевич</name>
-<url>https://gorlab.ru/doctor/item35910.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35910.html?utm_source=yandex</url>
 <price from="true">1200</price>
 <oldprice>1200</oldprice>
 <currencyId>RUB</currencyId>
@@ -162,7 +162,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3,set_6</set-ids>
 <name>Насуров Мухаммадамин Изатулоевич</name>
-<url>https://gorlab.ru/doctor/item41122.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item41122.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -185,7 +185,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3,set_6</set-ids>
 <name>Керимов Ислам Зейнутдинович</name>
-<url>https://gorlab.ru/doctor/item35930.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35930.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -212,7 +212,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Трифонова Наталья Викторовна</name>
-<url>https://gorlab.ru/doctor/item35934.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35934.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -240,7 +240,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_7</set-ids>
 <name>Сулейманова Зарина Ренатовна</name>
-<url>https://gorlab.ru/doctor/item35912.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35912.html?utm_source=yandex</url>
 <price from="true">2200</price>
 <oldprice>2200</oldprice>
 <currencyId>RUB</currencyId>
@@ -265,7 +265,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Сорокина Анна Владимировна</name>
-<url>https://gorlab.ru/doctor/item35921.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35921.html?utm_source=yandex</url>
 <price from="true">7000</price>
 <oldprice>7000</oldprice>
 <currencyId>RUB</currencyId>
@@ -292,7 +292,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Рымарчук Наталья Александровна</name>
-<url>https://gorlab.ru/doctor/item35931.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35931.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -317,7 +317,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3,set_8</set-ids>
 <name>Кравчук Оксана Святославовна</name>
-<url>https://gorlab.ru/doctor/item35925.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35925.html?utm_source=yandex</url>
 <price from="true">2200</price>
 <oldprice>2200</oldprice>
 <currencyId>RUB</currencyId>
@@ -342,7 +342,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Карпова Ульяна Игоревна</name>
-<url>https://gorlab.ru/doctor/item35917.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35917.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -367,7 +367,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3</set-ids>
 <name>Казакевич Наталья Михайловна</name>
-<url>https://gorlab.ru/doctor/item35929.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35929.html?utm_source=yandex</url>
 <price from="true">1320</price>
 <oldprice>1320</oldprice>
 <currencyId>RUB</currencyId>
@@ -391,7 +391,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2</set-ids>
 <name>Долуденко Юлия Владимировна</name>
-<url>https://gorlab.ru/doctor/item35907.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35907.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -415,7 +415,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_2,set_3</set-ids>
 <name>Джабалова Асият Магомедовна</name>
-<url>https://gorlab.ru/doctor/item36246.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item36246.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -442,7 +442,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_3,set_9</set-ids>
 <name>Гашимова Сельминаз Камиловна</name>
-<url>https://gorlab.ru/doctor/item35916.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item35916.html?utm_source=yandex</url>
 <price from="true">2420</price>
 <oldprice>2420</oldprice>
 <currencyId>RUB</currencyId>
@@ -469,7 +469,7 @@
 <categoryId>1</categoryId>
 <set-ids>set_9</set-ids>
 <name>Буторин Артем Алексеевич</name>
-<url>https://gorlab.ru/doctor/item41195.html?utm_source=yandex&utm_medium=feed</url>
+<url>https://gorlab.ru/doctor/item41195.html?utm_source=yandex</url>
 <price from="true">2500</price>
 <oldprice>2500</oldprice>
 <currencyId>RUB</currencyId>

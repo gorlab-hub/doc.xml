@@ -1,0 +1,498 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2025-07-11 17:17">
+<shop>
+<name>ГОРЛАБ</name>
+<company>ГОРЛАБ</company>
+<url>https://gorlab.ru/</url>
+<email>info@gorlab.ru</email>
+<picture>https://gorlab.ru/im/logo-gorlab.svg</picture>
+<description>Врачи ГОРЛАБ</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Врач</category>
+</categories>
+<sets>
+<set id="set_1">
+<name>гинеколог</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_2">
+<name>акушер-гинеколог</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_3">
+<name>узи-специалист</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_4">
+<name>педиатр</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_5">
+<name>гастроэнтеролог</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_6">
+<name>уролог</name>
+<url>https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_7">
+<name>дерматолог</name>
+<url> https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_8">
+<name>эндокринолог</name>
+<url> https://gorlab.ru/doctor/</url>
+</set>
+<set id="set_9">
+<name>кардиолог</name>
+<url> https://gorlab.ru/doctor/</url>
+</set>
+</sets>
+<offers>
+<offer id="vrach35080" group_id="1">
+<categoryId>1</categoryId>
+<set-ids>set_3,set_4,set_5</set-ids>
+<name>Куницкая Елена Владимировна</name>
+<url>https://gorlab.ru/doctor/item35933.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2500</price>
+<oldprice>2500</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35933.jpg</picture>
+<param name="Фамилия">Куницкая</param>
+<param name="Имя">Елена</param>
+<param name="Отчество">Владимировна</param>
+<param name="Годы опыта">17</param>
+<param name="Город">Одинцово</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Город клиники">г. Одинцово</param>
+<param name="Адрес клиники">Можайское шоссе, д. 80А</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35084" group_id="2">
+<categoryId>1</categoryId>
+<set-ids>set_1,set_2</set-ids>
+<name>Юнусова Гулчехра Раджабоевна</name>
+<url>https://gorlab.ru/doctor/item35924.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2200</price>
+<oldprice>2200</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35924.jpg</picture>
+<param name="Фамилия">Юнусова</param>
+<param name="Имя">Гулчехра</param>
+<param name="Отчество">Раджабоевна</param>
+<param name="Годы опыта">17</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">г. Москва</param>
+<param name="Адрес клиники">ул Новомарьинская, д. 15</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35924</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35113" group_id="3">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Вергасова Ольга Леонидовна</name>
+<url>https://gorlab.ru/doctor/item35927.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35927.jpg</picture>
+<param name="Фамилия">Вергасова</param>
+<param name="Имя">Ольга</param>
+<param name="Отчество">Леонидовна</param>
+<param name="Годы опыта">18</param>
+<param name="Город">Красногорск</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">Красногорск</param>
+<param name="Адрес клиники">Московская обл, г Красногорск, Подмосковный б-р, д. 10, оф. 4</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35927</param>
+<param name="Прием по ОМС">false</param>
+</offer>
+<offer id="vrach35114" group_id="4">
+<categoryId>1</categoryId>
+<set-ids>set_3</set-ids>
+<name>Мещеряков Андрей Васильевич</name>
+<url>https://gorlab.ru/doctor/item35910.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">1200</price>
+<oldprice>1200</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35910.jpg</picture>
+<param name="Фамилия">Мещеряков</param>
+<param name="Имя">Андрей</param>
+<param name="Отчество">Васильевич</param>
+<param name="Годы опыта">13</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники"> г Москва, ул Ясногорская, д. 13, к. 1</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35910</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35115" group_id="5">
+<categoryId>1</categoryId>
+<set-ids>set_3,set_6</set-ids>
+<name>Насуров Мухаммадамин Изатулоевич</name>
+<url>https://gorlab.ru/doctor/item41122.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item41122.jpg</picture>
+<param name="Фамилия">Насуров</param>
+<param name="Имя">Мухаммадамин</param>
+<param name="Отчество">Изатулоевич</param>
+<param name="Годы опыта">10</param>
+<param name="Город">Москва</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">г Москва, ул Новомарьинская, д. 15</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">41122</param>
+<param name="Прием по ОМС">false</param>
+</offer>
+<offer id="vrach35116" group_id="6">
+<categoryId>1</categoryId>
+<set-ids>set_3,set_6</set-ids>
+<name>Керимов Ислам Зейнутдинович</name>
+<url>https://gorlab.ru/doctor/item35930.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35930.jpg</picture>
+<param name="Фамилия">Керимов</param>
+<param name="Имя">Ислам</param>
+<param name="Отчество">Зейнутдинович</param>
+<param name="Годы опыта">3</param>
+<param name="Город">Красногорск</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">Красногорск</param>
+<param name="Адрес клиники">г Красногорск, Подмосковный б-р, д. 10, оф. 4</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35930</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">true</param>
+</offer>
+<offer id="vrach35117" group_id="7">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Трифонова Наталья Викторовна</name>
+<url>https://gorlab.ru/doctor/item35934.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35934.jpg</picture>
+<param name="Фамилия">Трифонова</param>
+<param name="Имя">Наталья</param>
+<param name="Отчество">Викторовна</param>
+<param name="Годы опыта">24</param>
+<param name="Город">Одинцово</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Город клиники">Одинцово</param>
+<param name="Адрес клиники">Можайское шоссе, д. 80А</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35934</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+<param name="Прием по видеосвязи">true</param>
+</offer>
+<offer id="vrach35118" group_id="8">
+<categoryId>1</categoryId>
+<set-ids>set_7</set-ids>
+<name>Сулейманова Зарина Ренатовна</name>
+<url>https://gorlab.ru/doctor/item35912.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2200</price>
+<oldprice>2200</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35912.jpg</picture>
+<param name="Фамилия">Сулейманова</param>
+<param name="Имя">Зарина</param>
+<param name="Отчество">Ренатовна</param>
+<param name="Годы опыта">4</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">ул Ясногорская, д. 13, к. 1</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35912</param>
+</offer>
+<offer id="vrach35119" group_id="9">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Сорокина Анна Владимировна</name>
+<url>https://gorlab.ru/doctor/item35921.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">7000</price>
+<oldprice>7000</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35921.jpg</picture>
+<param name="Фамилия">Сорокина</param>
+<param name="Имя">Анна</param>
+<param name="Отчество">Владимировна</param>
+<param name="Годы опыта">22</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Степень">Доктор наук</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">ул Образцова, д. 14</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35921</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35120" group_id="10">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Рымарчук Наталья Александровна</name>
+<url>https://gorlab.ru/doctor/item35931.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35931.jpg</picture>
+<param name="Фамилия">Рымарчук</param>
+<param name="Имя">Наталья</param>
+<param name="Отчество">Александровна</param>
+<param name="Годы опыта">17</param>
+<param name="Город">Красногорск</param>
+<param name="Город клиники">Красногорск</param>
+<param name="Адрес клиники">г Красногорск, Подмосковный б-р, д. 10, оф. 4</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35931</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35126" group_id="11">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3,set_8</set-ids>
+<name>Кравчук Оксана Святославовна</name>
+<url>https://gorlab.ru/doctor/item35925.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2200</price>
+<oldprice>2200</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35925.jpg</picture>
+<param name="Фамилия">Кравчук</param>
+<param name="Имя">Оксана</param>
+<param name="Отчество">Святославовна</param>
+<param name="Годы опыта">27</param>
+<param name="Город">Москва</param>
+<param name="Степень">Кандидат наук</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники"> ул Новомарьинская, д. 15</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35925</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35127" group_id="12">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Карпова Ульяна Игоревна</name>
+<url>https://gorlab.ru/doctor/item35917.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35917.jpg</picture>
+<param name="Фамилия">Карпова</param>
+<param name="Имя">Ульяна</param>
+<param name="Отчество">Игоревна</param>
+<param name="Годы опыта">10</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">Щёлковское шоссе, д. 66</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35917</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35128" group_id="13">
+<categoryId>1</categoryId>
+<set-ids>set_3</set-ids>
+<name>Казакевич Наталья Михайловна</name>
+<url>https://gorlab.ru/doctor/item35929.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">1320</price>
+<oldprice>1320</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35929.jpg</picture>
+<param name="Фамилия">Казакевич</param>
+<param name="Имя">Наталья</param>
+<param name="Отчество">Михайловна</param>
+<param name="Годы опыта">10</param>
+<param name="Город">Красногорск</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Город клиники">Красногорск</param>
+<param name="Адрес клиники">Подмосковный б-р, д. 10, оф. 4</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="внутренний идентификатор врача">35929</param>
+</offer>
+<offer id="vrach35129" group_id="14">
+<categoryId>1</categoryId>
+<set-ids>set_2</set-ids>
+<name>Долуденко Юлия Владимировна</name>
+<url>https://gorlab.ru/doctor/item35907.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35907.jpg</picture>
+<param name="Фамилия">Долуденко</param>
+<param name="Имя">Юлия</param>
+<param name="Отчество">Владимировна</param>
+<param name="Годы опыта">17</param>
+<param name="Город">Москва</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">ул. Ясногорская, д. 13, к. 1</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35907</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35130" group_id="15">
+<categoryId>1</categoryId>
+<set-ids>set_2,set_3</set-ids>
+<name>Джабалова Асият Магомедовна</name>
+<url>https://gorlab.ru/doctor/item36246.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item36246.jpg</picture>
+<param name="Фамилия">Джабалова</param>
+<param name="Имя">Асият</param>
+<param name="Отчество">Магомедовна</param>
+<param name="Годы опыта">20</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">ул Кастанаевская, д. 42А</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">36246</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35131" group_id="16">
+<categoryId>1</categoryId>
+<set-ids>set_3,set_9</set-ids>
+<name>Гашимова Сельминаз Камиловна</name>
+<url>https://gorlab.ru/doctor/item35916.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2420</price>
+<oldprice>2420</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item35916.jpg</picture>
+<param name="Фамилия">Гашимова</param>
+<param name="Имя">Сельминаз</param>
+<param name="Отчество">Камиловна</param>
+<param name="Годы опыта">14</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">Щёлковское шоссе, д. 66</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">35916</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+</offer>
+<offer id="vrach35132" group_id="17">
+<categoryId>1</categoryId>
+<set-ids>set_9</set-ids>
+<name>Буторин Артем Алексеевич</name>
+<url>https://gorlab.ru/doctor/item41195.html?utm_source=yandex&utm_medium=feed</url>
+<price from="true">2500</price>
+<oldprice>2500</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<picture>https://gorlab.ru/i/doctor/item41195.jpg</picture>
+<param name="Фамилия">Буторин</param>
+<param name="Имя">Артем</param>
+<param name="Отчество">Алексеевич</param>
+<param name="Годы опыта">3</param>
+<param name="Город">Москва</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">false</param>
+<param name="Город клиники">Москва</param>
+<param name="Адрес клиники">Подмосковный б-р, д. 10, оф. 4</param>
+<param name="Название клиники">ГОРЛАБ</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">8 (800) 555-36-12</param>
+<param name="внутренний идентификатор врача">41195</param>
+<param name="Прием по ОМС">false</param>
+<param name="Вызов на дом">false</param>
+<param name="Прием по видеосвязи">true</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

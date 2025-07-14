@@ -8,7 +8,7 @@
 <picture>https://gorlab.ru/im/logo-gorlab.svg</picture>
 <description>Врачи ГОРЛАБ</description>
 <currencies>
-<currency id="RUR" rate="1"/>
+<currency id="RUB" rate="1"/>
 </currencies>
 <categories>
 <category id="1">Врач</category>

@@ -386,6 +386,7 @@
 <param name="Город клиники">Красногорск</param>
 <param name="Адрес клиники">Подмосковный б-р, д. 10, оф. 4</param>
 <param name="Название клиники">ГОРЛАБ</param>
+<param name="Название клиники">ГОРЛАБ</param>
 <param name="Возможность записи">true</param>
 <param name="Онлайн-расписание">true</param>
 <param name="внутренний идентификатор врача">35929</param>
@@ -407,6 +408,7 @@
 <param name="Город">Москва</param>
 <param name="Город клиники">Москва</param>
 <param name="Адрес клиники">ул. Ясногорская, д. 13, к. 1</param>
+<param name="Название клиники">ГОРЛАБ</param>
 <param name="Возможность записи">true</param>
 <param name="Онлайн-расписание">true</param>
 <param name="Телефон для записи">8 (800) 555-36-12</param>

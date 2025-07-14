@@ -92,7 +92,7 @@
 <param name="Имя">Гулчехра</param>
 <param name="Отчество">Раджабоевна</param>
 <param name="Годы опыта">17</param>
-<param name="Город">Москва</param>
+<param name="Город">г. Москва</param>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">false</param>
 <param name="Город клиники">г. Москва</param>
@@ -145,10 +145,10 @@
 <param name="Имя">Андрей</param>
 <param name="Отчество">Васильевич</param>
 <param name="Годы опыта">13</param>
-<param name="Город">Москва</param>
+<param name="Город">г. Москва</param>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">true</param>
-<param name="Город клиники">Москва</param>
+<param name="Город клиники">г. Москва</param>
 <param name="Адрес клиники"> г Москва, ул Ясногорская, д. 13, к. 1</param>
 <param name="Название клиники">ГОРЛАБ</param>
 <param name="Возможность записи">true</param>
@@ -175,6 +175,7 @@
 <param name="Город">Москва</param>
 <param name="Город клиники">Москва</param>
 <param name="Адрес клиники">г Москва, ул Новомарьинская, д. 15</param>
+<param name="Название клиники">ГОРЛАБ</param>
 <param name="Возможность записи">true</param>
 <param name="Онлайн-расписание">true</param>
 <param name="Телефон для записи">8 (800) 555-36-12</param>
@@ -250,7 +251,7 @@
 <param name="Имя">Зарина</param>
 <param name="Отчество">Ренатовна</param>
 <param name="Годы опыта">4</param>
-<param name="Город">Москва</param>
+<param name="Город">г. Москва</param>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">true</param>
 <param name="Город клиники">Москва</param>
@@ -275,10 +276,11 @@
 <param name="Имя">Анна</param>
 <param name="Отчество">Владимировна</param>
 <param name="Годы опыта">22</param>
+<param name="Город">г. Москва</param>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">true</param>
 <param name="Степень">Доктор наук</param>
-<param name="Город клиники">Москва</param>
+<param name="Город клиники">г. Москва</param>
 <param name="Адрес клиники">ул Образцова, д. 14</param>
 <param name="Название клиники">ГОРЛАБ</param>
 <param name="Возможность записи">true</param>

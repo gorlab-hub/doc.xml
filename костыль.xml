@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2017-02-05 17:22">
+<shop version="2.0" date="2025-09-17 15:11:38">
+<name>Клиника</name>
+<company>АО С - ИНВЕСТ</company>
+<url>https://gorlab.ru/</url>
+<picture>https://gorlab.ru/im/logo-gorlab.svg</picture>
+<doctors>
+<doctor id="35907">
+<name>Долуденко Юлия Владимировна</name>
+<surname>Долуденко</surname>
+<first_name>Юлия</first_name>
+<patronymic>Владимировна</patronymic>
+<career_start_date>2012-01-01</career_start_date>
+</doctor>
+<doctor id="35910">
+<name>Мещеряков Андрей Васильевич</name>
+<surname>Мещеряков</surname>
+<first_name>Андрей</first_name>
+<patronymic>Васильевич</patronymic>
+<career_start_date>2012-01-01</career_start_date>
+</doctor>
+<doctor id="35916">
+<name>Гашимова Сельминаз Камиловна</name>
+<surname>Гашимова</surname>
+<first_name>Сельминаз</first_name>
+<patronymic>Камиловна</patronymic>
+<career_start_date>2011-01-01</career_start_date>
+</doctor>
+<doctor id="35917">
+<name>Карпова Ульяна Игоревна</name>
+<surname>Карпова</surname>
+<first_name>Ульяна</first_name>
+<patronymic>Игоревна</patronymic>
+<career_start_date>2015-01-01</career_start_date>
+</doctor>
+<doctor id="35921">
+<name>Сорокина Анна Владимировна</name>
+<surname>Сорокина</surname>
+<first_name>Анна</first_name>
+<patronymic>Владимировна</patronymic>
+<career_start_date>2003-01-01</career_start_date>
+</doctor>
+<doctor id="35924">
+<name>Юнусова Гулчехра Раджабоевна</name>
+<surname>Юнусова</surname>
+<first_name>Гулчехра</first_name>
+<patronymic>Раджабоевна</patronymic>
+<career_start_date>2008-01-01</career_start_date>
+</doctor>
+<doctor id="35925">
+<name>Кравчук Оксана Святославовна</name>
+<surname>Кравчук</surname>
+<first_name>Оксана</first_name>
+<patronymic>Святославовна</patronymic>
+<career_start_date>1998-01-01</career_start_date>
+<category>Высшая квалификационная категория</category>
+</doctor>
+<doctor id="35927">
+<name>Вергасова Ольга Леонидовна</name>
+<surname>Вергасова</surname>
+<first_name>Ольга</first_name>
+<patronymic>Леонидовна</patronymic>
+<career_start_date>2007-01-01</career_start_date>
+</doctor>
+<doctor id="35929">
+<name>Казакевич Наталья Михайловна</name>
+<surname>Казакевич</surname>
+<first_name>Наталья</first_name>
+<patronymic>Михайловна</patronymic>
+<career_start_date>2015-01-01</career_start_date>
+</doctor>
+<doctor id="35930">
+<name>Керимов Ислам Зейнутдинович</name>
+<surname>Керимов</surname>
+<first_name>Ислам</first_name>
+<patronymic>Зейнутдинович</patronymic>
+<career_start_date>2022-01-01</career_start_date>
+</doctor>
+<doctor id="35931">
+<name>Рымарчук Наталья Александровна</name>
+<surname>Рымарчук</surname>
+<first_name>Наталья</first_name>
+<patronymic>Александровна</patronymic>
+<career_start_date>2008-01-01</career_start_date>
+</doctor>
+<doctor id="35933">
+<name>Куницкая Елена Владимировна</name>
+<surname>Куницкая</surname>
+<first_name>Елена</first_name>
+<patronymic>Владимировна</patronymic>
+<career_start_date>2008-01-01</career_start_date>
+</doctor>
+<doctor id="35934">
+<name>Трифонова Наталья Викторовна</name>
+<surname>Трифонова</surname>
+<first_name>Наталья</first_name>
+<patronymic>Викторовна</patronymic>
+<career_start_date>2001-01-01</career_start_date>
+</doctor>
+<doctor id="41122">
+<name>Насуров Мухаммадамин Изатулоевич</name>
+<surname>Насуров</surname>
+<first_name>Мухаммадамин</first_name>
+<patronymic>Изатулоевич</patronymic>
+<career_start_date>2015-01-01</career_start_date>
+</doctor>
+</doctors>
+<clinics>
+<clinic id="2745">
+<name>ГОРЛАБ</name>
+<city>г Москва</city>
+<address>ул Ясногорская, д. 13, к. 1</address>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+<clinic id="2771">
+<name>ГОРЛАБ</name>
+<city>г Москва</city>
+<address>Щёлковское шоссе, д. 66</address>
+<email>info@gorlab.ru</email>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+<clinic id="2767">
+<name>ГОРЛАБ</name>
+<city>г Москва</city>
+<address>ул Образцова, д. 14</address>
+<email>info@gorlab.ru</email>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+<clinic id="2770">
+<name>ГОРЛАБ</name>
+<city>г Москва</city>
+<address>ул Новомарьинская, д. 15</address>
+<email>info@gorlab.ru</email>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+<clinic id="2749">
+<name>ГОРЛАБ</name>
+<city>г Красногорск</city>
+<address>Подмосковный б-р, д. 10, оф. 4</address>
+<email>info@gorlab.ru</email>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+<clinic id="2772">
+<name>ГОРЛАБ</name>
+<city>г Одинцово</city>
+<address>Можайское шоссе, д. 80А</address>
+<email>info@gorlab.ru</email>
+<phone>8 (800) 555-36-12</phone>
+</clinic>
+</clinics>
+<services>
+<service id="2026942">
+<name>Прием врача акушер-гинеколога (первичный)</name>
+</service>
+<service id="2027053">
+<name>Ультразвуковое исследование органов малого таза комплексное (трансвагинальное и трансабдоминальное)</name>
+</service>
+<service id="2027054">
+<name>УЗИ лонного сочленения</name>
+</service>
+<service id="2027128">
+<name>Первичный приём врача-уролога</name>
+</service>
+<service id="2026930">
+<name>Прием врача-гинеколога Д.М.Н. (Сорокина А.В)</name>
+</service>
+<service id="2027066">
+<name>Ультразвуковое исследование - определение сердцебиения плода</name>
+</service>
+<service id="2026932">
+<name>КМН Прием (осмотр, консультация) врача-акушера-гинеколога первичный</name>
+</service>
+<service id="2027056">
+<name>Ультразвуковое исследование шейки матки (УЗ-цервикометрия)</name>
+</service>
+<service id="2027152">
+<name>Приём врача-эндокринолога первичный</name>
+</service>
+<service id="2027055">
+<name>Ультразвуковое исследование фолликулогенеза</name>
+</service>
+<service id="2027069">
+<name>УЗИ мочевого пузыря</name>
+</service>
+<service id="2338379">
+<name>Консультация врача-гастроэнтеролога детская</name>
+</service>
+<service id="2338297">
+<name>Консультация врача-педиатра первичная</name>
+</service>
+<service id="2027078">
+<name>Ультразвуковое исследование селезенки</name>
+</service>
+</services>
+<offers>
+<offer id="35907_1_2745_2026942">
+<url>https://gorlab.ru/doctor/item35907.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2745">
+<doctor id="35907">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35907_53_2745_2027053">
+<url>https://gorlab.ru/doctor/item35907.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2500</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027053"/>
+<clinic id="2745">
+<doctor id="35907">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35910_53_2745_2027054">
+<url>https://gorlab.ru/doctor/item35910.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1200</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027054"/>
+<clinic id="2745">
+<doctor id="35910">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35916_54_2771_2027128">
+<url>https://gorlab.ru/doctor/item35916.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027128"/>
+<clinic id="2771">
+<doctor id="35916">
+<speciality>117</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35917_1_2771_2026942">
+<url>https://gorlab.ru/doctor/item35917.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2771">
+<doctor id="35917">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35917_53_2771_2027054">
+<url>https://gorlab.ru/doctor/item35917.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1200</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027054"/>
+<clinic id="2771">
+<doctor id="35917">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35921_1_2767_2026930">
+<url>https://gorlab.ru/doctor/item35921.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>7000</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026930"/>
+<clinic id="2767">
+<doctor id="35921">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35924_1_2770_2026942">
+<url>https://gorlab.ru/doctor/item35924.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2770">
+<doctor id="35924">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35924_53_2770_2027066">
+<url>https://gorlab.ru/doctor/item35924.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1210</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027066"/>
+<clinic id="2770">
+<doctor id="35924">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35925_1_2770_2026932">
+<url>https://gorlab.ru/doctor/item35925.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>3490</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026932"/>
+<clinic id="2770">
+<doctor id="35925">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35925_53_2770_2027056">
+<url>https://gorlab.ru/doctor/item35925.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1265</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027056"/>
+<clinic id="2770">
+<doctor id="35925">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35925_59_2770_2027152">
+<url>https://gorlab.ru/doctor/item35925.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2200</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027152"/>
+<clinic id="2770">
+<doctor id="35925">
+<speciality>125</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35927_1_2749_2026942">
+<url>https://gorlab.ru/doctor/item35927.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2749">
+<doctor id="35927">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35927_53_2749_2027066">
+<url>https://gorlab.ru/doctor/item35927.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1210</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027066"/>
+<clinic id="2749">
+<doctor id="35927">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35929_53_2749_2027055">
+<url>https://gorlab.ru/doctor/item35929.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1320</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027055"/>
+<clinic id="2749">
+<doctor id="35929">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35930_53_2749_2027128">
+<url>https://gorlab.ru/doctor/item35930.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027128"/>
+<clinic id="2749">
+<doctor id="35930">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35930_54_2749_2027069">
+<url>https://gorlab.ru/doctor/item35930.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1500</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027069"/>
+<clinic id="2749">
+<doctor id="35930">
+<speciality>117</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35931_1_2749_2026942">
+<url>https://gorlab.ru/doctor/item35931.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2749">
+<doctor id="35931">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35931_53_2749_2027056">
+<url>https://gorlab.ru/doctor/item35931.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1265</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027056"/>
+<clinic id="2749">
+<doctor id="35931">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35933_4_2772_2338379">
+<url>https://gorlab.ru/doctor/item35933.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>3500</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2338379"/>
+<clinic id="2772">
+<doctor id="35933">
+<speciality>19</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35933_31_2772_2338297">
+<url>https://gorlab.ru/doctor/item35933.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2800</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2338297"/>
+<clinic id="2772">
+<doctor id="35933">
+<speciality>58</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35934_1_2772_2026942">
+<url>https://gorlab.ru/doctor/item35934.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2026942"/>
+<clinic id="2772">
+<doctor id="35934">
+<speciality>13</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="35934_53_2772_2027066">
+<url>https://gorlab.ru/doctor/item35934.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1210</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027066"/>
+<clinic id="2772">
+<doctor id="35934">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="41122_53_2770_2027078">
+<url>https://gorlab.ru/doctor/item41122.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>1490</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027078"/>
+<clinic id="2770">
+<doctor id="41122">
+<speciality>116</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="41122_54_2770_2027128">
+<url>https://gorlab.ru/doctor/item41122.html</url>
+<appointment>true</appointment>
+<price>
+<base_price>2420</base_price>
+<currency>RUB</currency>
+</price>
+<service id="2027128"/>
+<clinic id="2770">
+<doctor id="41122">
+<speciality>117</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+</offers>
+</shop>
